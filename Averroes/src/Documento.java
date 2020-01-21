@@ -1,3 +1,4 @@
+//Alberto Muñoz
 public class Documento {
     private String nombreDocumento;
 
